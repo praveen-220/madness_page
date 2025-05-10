@@ -1,0 +1,22 @@
+
+.b{
+    background-color: rgb(179, 134, 134);
+    color:black;
+}
+
+.bo{
+    border-color: rgb(116, 37, 37);
+    background-color: rgb(57, 53, 53);
+    margin: 20px;
+    
+
+    
+}
+
+#w{
+    color: white;
+}
+#r{
+    color: rgb(205, 199, 199);
+    background-color: red;
+}
